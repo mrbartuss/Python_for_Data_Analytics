@@ -9,3 +9,9 @@ View my notebook with detailed steps here:
 
 View my notebook with detailed steps here:
 [3_Skill_Trend.ipynb](3_Skill_Trend.ipynb)
+
+## 3. How well do jobs and skills pay for Data Analysts?
+### Highest Paid & Most Demanded Skills for Data Analysts
+
+View my notebook with detailed steps here:
+[4_Salary_Analysis.ipynb](4_Salary_Analysis.ipynb)
